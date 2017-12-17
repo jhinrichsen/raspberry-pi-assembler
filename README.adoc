@@ -1,2 +1,18 @@
-# raspberry-pi-assembler
-Bits and pieces around programming the Raspberry Pi (3 and zero) in assembler
+= ARM Assembler on Raspberry Pi =
+
+== Linux EABI
+
+[http://www.arm.linux.org.uk/developer/patches/viewpatch.php?id=3105/4] Linux
+kernel calling convention
+
+[file:///usr/include/arm-linux-gnueabihf/asm/unistd.h] System calls 
+
+[https://community.arm.com/processors/b/blog/posts/useful-assembler-directives-and-macros-for-the-gnu-assembler] Useful assembler directives and macros for gas
+
+
+[http://bob.cs.sonoma.edu/IntroCompOrg-RPi/intro-co-rpi.html] Bob's intro to assembler on the RPi
+
+[https://www.cl.cam.ac.uk/projects/raspberrypi/tutorials/os/] Alex's into to assembler on the RPi (Model A and Pi zero)
+
+[https://elinux.org/RPi_Low-level_peripherals] PIN Header description
+
