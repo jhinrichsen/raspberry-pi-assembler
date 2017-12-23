@@ -26,7 +26,6 @@ buffer: .skip n
 
 .text
 _start:
-	mov	r0, r0
 
 read:
 	mov	r0, stdin
